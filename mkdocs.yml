@@ -1,0 +1,55 @@
+site_name: ELIXIR lesson
+nav:
+    - Home: index.md
+    - General info: 
+      - Precourse preparations: precourse.md
+      - Course schedule: course_schedule.md
+    - Chapters:
+      - "Chapter 1": chapters/chapter_01.md
+    - Keywords list: keywords.md
+
+theme:
+  name: material
+  logo: assets/images/white-orange-logo.png
+  favicon: assets/images/elixir_favicon.ico
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+
+# Repository
+repo_name: ELIXIR-FAIR-Training/ELIXIR-lesson-template
+repo_url: https://github.com/ELIXIR-FAIR-Training/ELIXIR-lesson-template
+edit_uri: edit/main/docs/
+
+plugins:
+  - tags:
+      tags_file: keywords.md
+  - search
+  - bibtex:
+      bib_file: "references.bib"
+  
+
+markdown_extensions:
+  - abbr
+  - def_list
+  - footnotes
+  - tables
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - sane_lists
+  - smarty
+  - toc
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+extra_css:
+  - stylesheets/extra.css
