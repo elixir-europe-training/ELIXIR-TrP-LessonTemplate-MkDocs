@@ -1,1 +1,1 @@
-Elixir template for lessons. Amongst others used for the [FAIR training handbook](https://elixir-fair-training.github.io/FAIR-training-handbook/). 
+Elixir template for lessons. Amongst others used for the [FAIR training handbook](https://elixir-fair-training.github.io/FAIR-training-handbook/). Find some guidance on how to use it in the [hosted website](https://elixir-fair-training.github.io/ELIXIR-lesson-template/). 
