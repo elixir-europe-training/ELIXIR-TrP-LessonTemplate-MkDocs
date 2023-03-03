@@ -3,3 +3,7 @@
   --md-accent-fg-color:         #eb8339ff;
   --md-typeset-a-color:         #047eaaff;
 }
+
+.md-banner {
+  background-color: chocolate;
+}
