@@ -30,6 +30,8 @@ plugins:
   - bibtex:
       bib_file: "references.bib"
   
+# Footer
+copyright: Creation of this material was funded by project# and is made availiable under a CC-BY 4.0 licence
 
 markdown_extensions:
   - abbr
