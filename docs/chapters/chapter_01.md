@@ -1,8 +1,10 @@
-## 1.1
-Here you can eneter text and if you need to cite[@Garcia2020]
-## 1.2
+## 1.1 First subtopic
+Here you can enter text and create inline citations[@Garcia2020] by using the bibtex plugin. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] by adding the @refid inside brackets like this `[@10.1093/bioinformatics/btt113]`
 
-## 1.3
-By using the bibtex plugin, we can use citations. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] like this:
+## 1.2 Second subtopic
+
+
+## 1.3 Third subtopic
+
 
 
