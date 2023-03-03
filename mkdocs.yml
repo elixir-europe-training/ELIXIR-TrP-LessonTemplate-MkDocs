@@ -14,7 +14,9 @@ theme:
   favicon: assets/images/elixir_favicon.ico
   custom_dir: overrides
   features:
-    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - toc.integrate
 
 # Repository
 repo_name: ELIXIR-FAIR-Training/ELIXIR-lesson-template
