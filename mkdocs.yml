@@ -17,6 +17,8 @@ theme:
     - navigation.top
     - navigation.footer
     - toc.integrate
+  font: 
+    text: Lato
 
 # Repository
 repo_name: ELIXIR-FAIR-Training/ELIXIR-lesson-template
