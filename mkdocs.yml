@@ -4,8 +4,8 @@ nav:
     - Course Content:
       - "1. title of first chapter": chapters/chapter_01.md
       - "2. title of second chapter": chapters/chapter_02.md
-      - "Follow up training": precourse.md
-      - "References": keywords.md
+      - "Follow up training": follow_up_training.md
+      - "References": chapters/references.md
     
 
 theme:
