@@ -1,6 +1,6 @@
 Elixir template for lessons. Amongst others used for the [FAIR training handbook](https://elixir-europe-training.github.io/FAIR-training-handbook/). Press the 'use template' button to use this template in a repository in your own namespace. 
 
-**Any issues?** Contact Geert van Geest (@GeertvanGeest)
+**Any issues?** Contact Geert van Geest (@GeertvanGeest) 
 
 Once you have this template in your own namespace, follow the instructions below. 
 
