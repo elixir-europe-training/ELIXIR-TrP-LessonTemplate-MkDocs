@@ -1,45 +1,59 @@
+# ELIXIR lesson title 
 
-## Quick intro to this template
+## Authors
 
-You can edit pages in [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). However, this theme ([material](https://squidfunk.github.io/mkdocs-material/)) has many fancy extensions, like [admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/):
+---
+## Lesson overview
 
-!!! info "Using html snippets"
-    If you want to add an image, the best way would be to use html, e.g:
+#### Description
+[comment]: # (Property in Bioschema: description)
+Add a short description of the training materail should be inserted here.
 
-    ```html
-    <figure>
-    <img src="https://elixir-europe.org/sites/default/files/ebif_news_release_image_news_landingpageimage_.png" width="600" alt="Image on elixir landing page"/>
-    <figcaption> Elixir image </figcaption>
-    </figure>
-    ```
-    
-    Which would result in:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae libero suscipit massa gravida ornare. Nulla facilisi. Etiam quis metus blandit, sodales ex vel, ultrices erat. Aenean ornare libero sit amet bibendum sodales. Integer lorem mi, auctor in elementum non, pretium id leo. In hac habitasse platea dictumst. Vivamus dignissim leo vitae dolor ultrices congue. Vestibulum vitae nulla maximus, tincidunt augue vitae, tristique felis. Aenean non maximus enim. Pellentesque porta dolor tincidunt condimentum blandit. Cras eu nisi non neque egestas tempor sit amet eu urna. Donec pellentesque ullamcorper odio, sed maximus nisi elementum eu. Praesent at sagittis elit.
 
-    <figure>
-    <img src="https://elixir-europe.org/sites/default/files/ebif_news_release_image_news_landingpageimage_.png" width="600" alt="Image on elixir landing page"/>
-    <figcaption> Elixir image </figcaption>
-    </figure>
+#### Target Audience 
+[comment]: # (Property in Bioschema: audience)
+Example of a target audience: 
 
-    If you want to use local images, add them to `docs/assets/images` and refer to them in the html as a relative path, e.g.:
+#### Level
+[comment]: # (Property in Bioschema: educationalLevel)
+Beginner/Intermediate/Advanced
 
-    ```html
-    <figure>
-    <img src="../assets/images/elixir_image.png" width="600" alt="Image on elixir landing page"/>
-    <figcaption> Elixir image </figcaption>
-    </figure>
-    ```
+#### Prerequisites
+[comment]: # (Property in Bioschema: coursePrequsites)
+To be able to follow the course, learners should have knowledge in:
 
-    Resulting in: 
+* Bulleted list of prerequisites
+* 
 
-    <figure>
-    <img src="../assets/images/elixir_image.png" width="600" alt="Image on elixir landing page"/>
-    <figcaption> Elixir image </figcaption>
-    </figure>
+#### Learning Outcomes
+[comment]: # (Property in Bioschema: teaches)
+By the end of the course, participants will be able to:
 
-By using the bibtex plugin, we can use citations. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] like this:
+* Learning outcome 1
+* Learning outcome 2
+* Learning outcome 3
 
-```
-[@firstauthor_2022]
-```
+#### Licence
+[comment]: # (Property in Biochema: licence)
 
-\bibliography
+#### Funding
+[comment]: # (This is an example for CONVERGE)
+This project has received funding from the European Union Horizon 2020 Research and Innovation programme under grant agreement No 871075.
+
+#### Contributors
+
+---
+## Citing this lesson
+To cite this lesson 
+
+---
+## Setup
+
+### Data Setup
+To run this lesson you need to install data from …
+
+### Software Setup
+To run this course you need to install… continue with software installation instructions
+
+
