@@ -21,8 +21,8 @@ theme:
     text: Lato
 
 # Repository
-repo_name: ELIXIR-FAIR-Training/ELIXIR-lesson-template
-repo_url: https://github.com/ELIXIR-FAIR-Training/ELIXIR-lesson-template
+repo_name: elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs
+repo_url: https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs
 edit_uri: edit/main/docs/
 
 plugins:
