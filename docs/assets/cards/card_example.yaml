@@ -1,0 +1,17 @@
+- title: Artemis
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/021-artemis.png
+
+- title: Ares
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/006-ares.png
+
+- title: Nike
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/027-nike.png

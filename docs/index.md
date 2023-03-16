@@ -2,7 +2,30 @@
 
 ## Authors
 
----
+::cards::
+
+- title: Zeus
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/001-zeus.png
+
+- title: Athena
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/003-athena.png
+
+- title: Poseidon
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/007-poseidon.png
+
+::/cards::
+
+[cards cols="3"(./docs/assets/cards/card_example.yaml)]
+
 ## Lesson overview
 
 #### Description
