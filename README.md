@@ -17,9 +17,13 @@ To host it locally, install MkDocs:
 pip install mkdocs
 ```
 
-and Material:
+and Material with some plugins:
 ```bash
+pip install mkdocs
 pip install mkdocs-material
+pip install mkdocs-video
+pip install mkdocs-bibtex 
+pip install neoteroi-mkdocs
 ```
 
 Clone this repository to your local computer. Then, make the repository your current directory and type:
