@@ -19,7 +19,6 @@ pip install mkdocs
 
 and Material with some plugins:
 ```bash
-pip install mkdocs
 pip install mkdocs-material
 pip install mkdocs-video
 pip install mkdocs-bibtex 
