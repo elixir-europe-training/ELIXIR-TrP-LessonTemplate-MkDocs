@@ -2,29 +2,7 @@
 
 ## Authors
 
-::cards::
-
-- title: Zeus
-  content: |
-    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
-    Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/001-zeus.png
-
-- title: Athena
-  content: |
-    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
-    Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/003-athena.png
-
-- title: Poseidon
-  content: |
-    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
-    Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/007-poseidon.png
-
-::/cards::
-
-[cards cols="3"(./docs/assets/cards/card_example.yaml)]
+[cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
 
 ## Lesson overview
 
@@ -65,6 +43,8 @@ By the end of the course, participants will be able to:
 This project has received funding from the European Union Horizon 2020 Research and Innovation programme under grant agreement No 871075.
 
 #### Contributors
+
+[cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
 
 ---
 ## Citing this lesson

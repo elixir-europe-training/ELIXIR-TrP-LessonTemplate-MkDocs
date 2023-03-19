@@ -1,17 +1,17 @@
-- title: Artemis
+- title: Zeus
   content: |
     [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
     Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/021-artemis.png
+  image: ./assets/images/cards/001-zeus.png
 
-- title: Ares
+- title: Athena
   content: |
     [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
     Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/006-ares.png
+  image: ./assets/images/cards/003-athena.png
 
-- title: Nike
+- title: Poseidon
   content: |
     [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
     Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/027-nike.png
+  image: ./assets/images/cards/007-poseidon.png
