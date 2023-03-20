@@ -4,47 +4,52 @@
 
 [cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
 
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](https://www.flaticon.com)
+
 ## Lesson overview
 
-#### Description
-[comment]: # (Property in Bioschema: description)
-Add a short description of the training materail should be inserted here.
+!!! abstract "Description"
+    [comment]: # (Property in Bioschema: description)
+    Add a short description of the training materail should be inserted here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae libero suscipit massa gravida ornare. Nulla facilisi. Etiam quis metus blandit, sodales ex vel, ultrices erat. Aenean ornare libero sit amet bibendum sodales. Integer lorem mi, auctor in elementum non, pretium id leo. In hac habitasse platea dictumst. Vivamus dignissim leo vitae dolor ultrices congue. Vestibulum vitae nulla maximus, tincidunt augue vitae, tristique felis. Aenean non maximus enim. Pellentesque porta dolor tincidunt condimentum blandit. Cras eu nisi non neque egestas tempor sit amet eu urna. Donec pellentesque ullamcorper odio, sed maximus nisi elementum eu. Praesent at sagittis elit.
+!!! warning "Prerequisites"
+    [comment]: # (Property in Bioschema: coursePrequsites)
+    To be able to follow the course, learners should have knowledge in:
+    
+    - First requirement
+    - Second requirement
 
-#### Target Audience 
-[comment]: # (Property in Bioschema: audience)
-Example of a target audience: 
+!!! info "Overview"
+    :book: **Learning Outcomes:**
+    [comment]: # (Property in Bioschema: teaches)
 
-#### Level
-[comment]: # (Property in Bioschema: educationalLevel)
-Beginner/Intermediate/Advanced
+    1. First item  
+    2. Second item  
+    3. 
 
-#### Prerequisites
-[comment]: # (Property in Bioschema: coursePrequsites)
-To be able to follow the course, learners should have knowledge in:
+    :clock: **Total Time Estimation:** X hours
 
-* Bulleted list of prerequisites
-* 
+    :woman_student: **Target Audience:** PhD, MsC, etc.
+    [comment]: # (Property in Bioschema: audience)
+    
+    :thermometer: **Level:** Beginner/Intermediate/Advanced
+    [comment]: # (Property in Bioschema: educationalLevel)
 
-#### Learning Outcomes
-[comment]: # (Property in Bioschema: teaches)
-By the end of the course, participants will be able to:
+    :open_file_folder: **Supporting Materials:**
 
-* Learning outcome 1
-* Learning outcome 2
-* Learning outcome 3
+    - Link to supporting material (slides, data)
+    - Another link to supporting material (slides, data)
 
-#### Licence
-[comment]: # (Property in Biochema: licence)
+    :lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+    [comment]: # (Property in Biochema: licence)
 
-#### Funding
-[comment]: # (This is an example for CONVERGE)
-This project has received funding from the European Union Horizon 2020 Research and Innovation programme under grant agreement No 871075.
+    :coin: **Funding:** This project has received funding from the European Union Horizon 2020 Research and Innovation programme under grant agreement No 871075.
+    [comment]: # (This is an example for CONVERGE)
 
 #### Contributors
 
 [cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com)
 
 ---
 ## Citing this lesson
