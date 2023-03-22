@@ -35,3 +35,7 @@
   height: 100px;
   width: auto;
 }
+
+.md-typeset {
+  line-height: 0.9;
+}
