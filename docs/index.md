@@ -8,7 +8,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 ## Lesson overview
 
-!!! info "Overview"
+!!! quote ""
     **Description**
     [comment]: # (Property in Bioschema: description)
     Add a short description of the training materail should be inserted here.
