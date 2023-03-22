@@ -35,11 +35,3 @@
   height: 100px;
   width: auto;
 }
-
-.md-typeset .admonition.info, .md-typeset details.info {
-  border-color: #ebebeb;
-}
-
-.md-typeset .info > .admonition-title, .md-typeset .info > summary {
-  background-color: #eeeeee;
-}
