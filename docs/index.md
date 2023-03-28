@@ -16,12 +16,14 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     **Prerequisites**
     [comment]: # (Property in Bioschema: coursePrequsites)
     To be able to follow this course, learners should have knowledge in:
+    
     1. First requirement
     2. Second requirement
 
     :book: **Learning Outcomes:**
     [comment]: # (Property in Bioschema: teaches)
     By the end of the course, learners will be able to:
+    
     1. First item  
     2. Second item  
 
