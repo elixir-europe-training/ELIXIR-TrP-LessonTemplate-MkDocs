@@ -1,4 +1,4 @@
-# ELIXIR lesson title 
+# ELIXIR Lesson Title 
 
 ## Authors
 
@@ -15,17 +15,15 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     **Prerequisites**
     [comment]: # (Property in Bioschema: coursePrequsites)
-    To be able to follow the course, learners should have knowledge in:
-
-    - First requirement
-    - Second requirement
+    To be able to follow this course, learners should have knowledge in:
+    1. First requirement
+    2. Second requirement
 
     :book: **Learning Outcomes:**
     [comment]: # (Property in Bioschema: teaches)
-
+    By the end of the course, learners will be able to:
     1. First item  
     2. Second item  
-    3. 
 
     :man_technologist: **Target Audience:** PhD, MsC, etc.
     [comment]: # (Property in Bioschema: audience)
@@ -36,7 +34,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     :lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
     [comment]: # (Property in Biochema: licence)
     
-    :coin: **Funding:** This project has received funding from the European Union Horizon 2020 Research and Innovation programme under grant agreement No 871075.
+    :coin: **Funding:** This project has received funding from [name of funders].
     [comment]: # (This is an example for CONVERGE)
 
 #### Contributors
@@ -51,10 +49,10 @@ To cite this lesson
 ---
 ## Setup
 
-### Data Setup
+### Data setup
 To run this lesson you need to install data from …
 
-### Software Setup
+### Software setup
 To run this course you need to install… continue with software installation instructions
 
 
