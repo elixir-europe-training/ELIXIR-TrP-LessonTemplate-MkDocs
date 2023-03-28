@@ -9,34 +9,27 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 ## Lesson overview
 
 !!! overview ""
-    **Description**
+    **Description**  
+    Add a short description of the training materail should be inserted here.  
+    **Prerequisites**  
+    To be able to follow this course, learners should have knowledge in:  
+    &emsp;1. First requirement  
+    &emsp;2. Second requirement  
+    :book: **Learning Outcomes:**  
+    By the end of the course, learners will be able to:  
+    &emsp;1. First item  
+    &emsp;2. Second item  
+    :man_technologist: **Target Audience:** PhD, MsC, etc.  
+    :woman_student: **Level:** Beginner/Intermediate/Advanced  
+    :lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
+    :coin: **Funding:** This project has received funding from [name of funders].  
+
     [comment]: # (Property in Bioschema: description)
-    Add a short description of the training materail should be inserted here.
-    
-    **Prerequisites**
     [comment]: # (Property in Bioschema: coursePrequsites)
-    To be able to follow this course, learners should have knowledge in:
-    
-    1. First requirement
-    2. Second requirement
-
-    :book: **Learning Outcomes:**
     [comment]: # (Property in Bioschema: teaches)
-    By the end of the course, learners will be able to:
-    
-    1. First item  
-    2. Second item  
-
-    :man_technologist: **Target Audience:** PhD, MsC, etc.
     [comment]: # (Property in Bioschema: audience)
-
-    :woman_student: **Level:** Beginner/Intermediate/Advanced
     [comment]: # (Property in Bioschema: educationalLevel)
-
-    :lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
     [comment]: # (Property in Biochema: licence)
-    
-    :coin: **Funding:** This project has received funding from [name of funders].
     [comment]: # (This is an example for CONVERGE)
 
 #### Contributors
