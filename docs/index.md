@@ -29,8 +29,12 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     </br>
     
     :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
+    </br>
+    
     :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
-    :fontawsemone-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
+    
+    :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
+    
     :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from [name of funders].  
 
     [comment]: # (Property in Bioschema: description)
