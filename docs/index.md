@@ -11,11 +11,16 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
     Add a short description of the training materail should be inserted here. 
+    
     </br>
-    **Prerequisites**  
+    
+    :fontawesome-solid-arrow-left: **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
     &emsp;1. First requirement  
     &emsp;2. Second requirement  
+    
+    </br>
+    
     :book: **Learning Outcomes:**  
     By the end of the course, learners will be able to:  
     &emsp;1. First item  
