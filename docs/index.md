@@ -9,8 +9,9 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 ## Lesson overview
 
 !!! overview ""
-    **Description**  
-    Add a short description of the training materail should be inserted here.  
+    :fontawesome-regular-bookmark: **Description**  
+    Add a short description of the training materail should be inserted here. 
+    </br>
     **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
     &emsp;1. First requirement  
