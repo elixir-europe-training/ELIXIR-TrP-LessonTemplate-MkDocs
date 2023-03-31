@@ -1,9 +1,10 @@
 docs/chapters/
-docs/assets/cards
+docs/assets/cards/
+docs/assets/images/cards/
 docs/*.md
 site/
 .github/
-README.md 
+*.md 
 mkdocs.yml
 references.bib
 overrides/*.html
