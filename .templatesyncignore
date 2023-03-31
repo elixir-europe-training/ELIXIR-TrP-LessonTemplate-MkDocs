@@ -1,3 +1,9 @@
 docs/chapters/
+docs/assets/cards
+docs/*.md
 site/
 .github/
+README.md 
+mkdocs.yml
+references.bib
+overrides/*.html
