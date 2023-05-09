@@ -1,6 +1,7 @@
+# Elixir Training Lesson template
+
 [![DOI](https://zenodo.org/badge/564252010.svg)](https://zenodo.org/badge/latestdoi/564252010)
 
-# Elixir Training Lesson template
 
 For instruction on how to use the template, please follow this documentation: 
 https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-MkDocs/
