@@ -3,6 +3,7 @@ name: template sync
 
 on:
   schedule:
+  # every month on the first day
   - cron:  "0 0 1 * *"
   workflow_dispatch:
 
