@@ -3,7 +3,7 @@ docs/assets/cards/
 docs/assets/images/cards/
 docs/*.md
 site/
-.github/template-sync.yml
+.github/
 *.md 
 mkdocs.yml
 references.bib
