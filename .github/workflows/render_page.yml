@@ -2,7 +2,8 @@ name: render page
 on:
   push:
     branches:
-      - main 
+      - main
+      - 28-render-page-fails-with-latest-version-of-mkdocs-mkdocs_material-953
   workflow_dispatch:
 
 jobs:
