@@ -17,5 +17,5 @@ jobs:
         with:
           python-version: 3.x
       - run: |
-          pip install setuptools mkdocs-material mkdocs-bibtex neoteroi-mkdocs mkdocs-video
+          pip install -r requirements.txt
           mkdocs gh-deploy --force
