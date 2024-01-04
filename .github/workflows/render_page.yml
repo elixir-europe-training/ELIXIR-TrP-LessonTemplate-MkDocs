@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - 30-use-a-requirementstxt-for-installation-of-build-dependencies
   workflow_dispatch:
   schedule:
     # every week on Sunday
@@ -17,5 +18,5 @@ jobs:
         with:
           python-version: 3.x
       - run: |
-          pip install setuptools mkdocs-material mkdocs-bibtex neoteroi-mkdocs mkdocs-video
+          pip install -r requirements.txt
           mkdocs gh-deploy --force
