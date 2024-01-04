@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      - 30-use-a-requirementstxt-for-installation-of-build-dependencies
   workflow_dispatch:
   schedule:
     # every week on Sunday
