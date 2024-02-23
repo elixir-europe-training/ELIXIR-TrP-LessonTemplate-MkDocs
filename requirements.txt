@@ -3,4 +3,4 @@ mkdocs-material
 mkdocs-bibtex
 neoteroi-mkdocs
 mkdocs-video
-add-bioschemas
+addbioschemas
