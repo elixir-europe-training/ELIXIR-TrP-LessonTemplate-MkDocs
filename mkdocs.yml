@@ -59,11 +59,8 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - neoteroi.cards
-  - addbioschemas:
-      yaml: '_data/metadata.yaml'
-
+  - addbioschemas
 
 extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
-

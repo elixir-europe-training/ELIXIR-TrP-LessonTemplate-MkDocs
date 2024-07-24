@@ -1,6 +1,6 @@
 # ELIXIR Lesson Title 
 
-[add-bioschemas]
+[add-bioschemas file='_data/metadata.yaml']
 
 ## Authors
 
