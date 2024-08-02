@@ -11,3 +11,4 @@ overrides/*.html
 ./README.md
 README.md
 CITATION.cff
+_data/metadata.yaml
