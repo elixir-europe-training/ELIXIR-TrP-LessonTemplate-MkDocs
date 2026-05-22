@@ -1,6 +1,11 @@
+
+
 # ELIXIR Lesson Title 
 
 [add-bioschemas file='_data/metadata.yaml']
+
+!!! warning
+    MkDocs 2.0, the underlying framework of Material for MkDocs, will introduce backward-incompatible changes. Therefore, this template will stop working sooner or later. We are currently working on a solution.  
 
 ## Authors
 
