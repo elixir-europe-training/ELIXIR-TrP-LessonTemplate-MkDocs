@@ -1,3 +1,10 @@
+# This repository is archived
+
+This repository is not maintained anymore. For new projects, please use either:
+
+- The zensical template: https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-zensical
+- ELIXIR Toolkit Theme: https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+
 # Elixir Training Lesson template
 
 [![DOI](https://zenodo.org/badge/564252010.svg)](https://zenodo.org/badge/latestdoi/564252010)

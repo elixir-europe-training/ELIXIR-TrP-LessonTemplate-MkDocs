@@ -5,7 +5,7 @@
 [add-bioschemas file='_data/metadata.yaml']
 
 !!! warning
-    MkDocs 2.0, the underlying framework of Material for MkDocs, will introduce backward-incompatible changes. Therefore, this template will stop working sooner or later. We are currently working on a solution.  
+    MkDocs 2.0, the underlying framework of Material for MkDocs, will introduce backward-incompatible changes. Therefore, this template will stop working sooner or later. We recommend you working with the [zensical template](https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-zensical) or the [ELIXIR Toolkit Theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme). 
 
 ## Authors
 
